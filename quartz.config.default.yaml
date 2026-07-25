@@ -256,7 +256,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: cinderpaper
+      theme: default
       variation: null
 layout:
   groups:
